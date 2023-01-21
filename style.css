@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+.logo{
+    display: inline;
+    margin-left: 32px;
+}
+.navbar{
+    padding-top: 60px;
+    position: absolute;
+    right: 31px;
+    left: 266px;
+    display: inline;
+    font-size: 21px;
+    margin-left: 200px;
+}
+hr{
+    position: relative;
+    right: 200px;
+    width: 900px;
+}
+.navbar a{
+
+    padding: 30px;
+    margin-left: 30px;
+    text-decoration:none;
+    color: black;
+    border-radius: 30px;
+}
+.navbar a:hover{
+    background-color: black;
+    color: white;
+}
+.text{
+    width: 256px;
+    margin-left: 266px;
+    
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 42px;
+}
+p{
+    color: grey;
+}
+.image{
+    position: absolute;
+    right: 31px;
+    top: 141px;
+}
+.footer{
+    width: 100%;
+    margin-top: 320px;
+    background-color: black;
+    display: inline-block;
+}
+.footer p{
+    font-size: 15px;
+    padding-top: 28px;
+    padding-left: 266px;
+}
+h3{
+    color: gray;
+    font-size: 30px;
+    padding-left: 266px;
+}
+.af{
+    position: relative;
+    
+    margin-left: 600px;
+    bottom: 60px;
+
+}
+.af h4{
+    color: darkgrey;
+}
+.af a{
+    display: flex;
+    flex-direction: column;
+    color: gray;
+}
+.af2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 750px;
+    bottom: 180px;
+}
+.af2 h4{
+    color: darkgray;
+}
+.af2 a{
+    color: grey;
+}
+.afleft{
+    width: 580px;
+    position: relative;
+    left: 650px;
+    bottom: 280px;
+}
+/* ABOUT PAGE CODE */
+
+.image_about{
+    position: absolute;
+    margin-left: 266px;
+    bottom: 80px;
+}
+.about h1{
+    position: relative;
+    top: 380px;
+    margin-left: 266px;
+}
+.p1{
+    width: 320px;
+    color: black;
+    position: absolute;
+    top: 550px;
+    margin-left: 500px;
+}
+.p2{
+    color: black;
+    position: absolute;
+    width: 320px;
+    top: 550px;
+    margin-left: 880px;
+}
+.footer1{
+    width: 100%;
+    margin-top: 650px;
+    background-color: black;
+    display: inline-block;
+}
+.footer1 p{
+    font-size: 15px;
+    padding-top: 28px;
+    padding-left: 266px;
+}
+h3{
+    color: gray;
+    font-size: 30px;
+    padding-left: 266px;
+}
+.afa{
+    position: relative;
+    
+    margin-left: 600px;
+    bottom: 60px;
+
+}
+.afa h4{
+    color: darkgrey;
+}
+.afa a{
+    display: flex;
+    flex-direction: column;
+    color: gray;
+}
+.afa2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 750px;
+    bottom: 180px;
+}
+.afa2 h4{
+    color: darkgray;
+}
+.afa2 a{
+    color: grey;
+}
+.aflefta{
+    width: 580px;
+    position: relative;
+    left: 650px;
+    bottom: 280px;
+}
+
+/* WORK PAGE CODE */
+.main{
+    font-size: 40px;
+    margin-left: 266px;
+    color: gray;
+    
+}
+strong{
+    padding: 15px;
+}
+strong:hover{
+    color: black;
+}
+.he:hover{
+    color: black;
+}
+
+/* CONTACT US PAGE CODE */
+.main1{
+    margin-left: 266px;
+}
+.main1 h1{
+    display: inline;
+    font-size: 40px;
+}
+
+.main1 img{
+    display: inline;
+    position: absolute;
+    margin-left: 100px;
+    
+}
+.main1 p{
+    display: inline;
+    color: black;
+    margin-left: 50px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.h{
+    margin-left: 200px;
+}
+.hello{
+    margin-left: 266px;
+}
+.hello h1{
+    display: inline;
+    font-size: 40px;
+}
+.hello h4{
+    display: inline;
+    margin-left: 140px;
+    font-size: 25px;
+}
+.hello p{
+    margin-left: 280px;
+}
+form{
+    width: 450px;
+    margin-left: 529px;
+    background-color: #DDDDDD;
+    padding: 30px;
+}
+label{
+    color: white;
+    background-color: black;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    padding: 0 10px;
+
+}
+input{
+    width: 300px;
+    height: 25px;
+}
+.submit{
+    width: 80px;
+    background-color: darkgray;
+    border: .1px solid darkgray;
+    color: white;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: black;
+}
+
+/* BLOG PAGE POST */
+
+.blog{
+    margin-left: 550px;
+    margin-top: 40px;
+}
